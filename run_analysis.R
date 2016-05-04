@@ -1,3 +1,5 @@
+# Download the dataset first, then unzip it for further use.
+
 # Step 1 
 # Merge the training and the test sets to create one data set
 trainData <- read.table("./train/X_train.txt")
